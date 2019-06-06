@@ -11,13 +11,13 @@
     <mask>*.impex</mask>
     <mask>*.css</mask>
     <mask>*.jsp</mask>
-    <mask>*.jsp, *.tag</mask>
     <mask>*beans.xml</mask>
     <mask>*.xml</mask>
     <mask>*items.xml</mask>
     <mask>*config.xml</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
+    <mask>*.jsp, *.tag</mask>
     <mask>*.java</mask>
   </component>
 </application>
