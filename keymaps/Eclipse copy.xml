@@ -1,14 +1,32 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="EditorDecreaseFontSize">
-    <keyboard-shortcut first-keystroke="alt d" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
-  <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="alt f" />
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="GotoNextError">
-    <mouse-shortcut keystroke="alt button1 doubleClick" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="GotoPreviousError">
-    <mouse-shortcut keystroke="shift alt button1 doubleClick" />
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
 </keymap>
