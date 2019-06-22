@@ -2,6 +2,7 @@
   <component name="HybrisApplicationSettings">
     <option name="usedActions">
       <set>
+        <option value="BUILD_PROJECT" />
         <option value="GROOVY_CONSOLE" />
         <option value="OPEN_PROJECT" />
       </set>
