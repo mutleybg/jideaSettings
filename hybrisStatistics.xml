@@ -1,5 +1,0 @@
-<application>
-  <component name="HybrisStatistics">
-    <entity action="RUN_TESTS" date="2019-06-28T18:04:05.106+03:00[Europe/Helsinki]" params="executor:Run,annotation-filter:UNIT_TESTS" />
-  </component>
-</application>
