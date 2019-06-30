@@ -7,6 +7,7 @@
     <option name="localMacroFolding" value="Full" />
     <option name="usedActions">
       <set>
+        <option value="ANT" />
         <option value="BUILD_PROJECT" />
         <option value="GROOVY_CONSOLE" />
         <option value="OPEN_PROJECT" />
