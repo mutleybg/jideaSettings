@@ -21,6 +21,10 @@
     <keyboard-shortcut first-keystroke="shift f1" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="MaximizeToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+    <keyboard-shortcut first-keystroke="shift ctrl quote" second-keystroke="shift ctrl x" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
