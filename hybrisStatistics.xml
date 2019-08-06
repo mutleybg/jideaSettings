@@ -1,7 +1,0 @@
-<application>
-  <component name="HybrisStatistics">
-    <entity action="BUILD_PROJECT" date="2019-08-03T15:07:53.114+03:00[Europe/Helsinki]" params="rebuild:false" />
-    <entity action="BUILD_PROJECT" date="2019-08-03T17:40:34.220+03:00[Europe/Helsinki]" params="rebuild:false" />
-    <entity action="BUILD_PROJECT" date="2019-08-04T11:46:50.294+03:00[Europe/Helsinki]" params="rebuild:false" />
-  </component>
-</application>
