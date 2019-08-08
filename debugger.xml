@@ -1,4 +1,7 @@
 <application>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="false" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views>
       <sort-values>true</sort-values>
