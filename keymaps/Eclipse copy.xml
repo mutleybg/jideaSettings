@@ -1,4 +1,10 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
   <action id="ClassNameCompletion" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="ctrl f6" />
