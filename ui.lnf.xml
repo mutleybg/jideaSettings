@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="50" />
+    <option name="MAX_LOOKUP_WIDTH2" value="726" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
