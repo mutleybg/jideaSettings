@@ -5,7 +5,11 @@
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="alt f8" />
   </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
   <action id="ClassNameCompletion" />
+  <action id="DatabaseView.SqlGenerator" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
@@ -31,6 +35,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
     <keyboard-shortcut first-keystroke="shift ctrl quote" second-keystroke="shift ctrl x" />
   </action>
+  <action id="Mvc.RunTarget" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
