@@ -14,11 +14,11 @@
     <mask>*.js</mask>
     <mask>*Test.java</mask>
     <mask>*.impex</mask>
-    <mask>*.jsp, *.tag</mask>
     <mask>*config.xml</mask>
     <mask>*items.xml</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.jsp, *.tag</mask>
   </component>
 </application>
