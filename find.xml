@@ -15,10 +15,10 @@
     <mask>*Test.java</mask>
     <mask>*.impex</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.java</mask>
     <mask>*config.xml</mask>
     <mask>*items.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
