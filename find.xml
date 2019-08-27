@@ -18,7 +18,7 @@
     <mask>*.xml</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.java</mask>
-    <mask>*items.xml</mask>
     <mask>*config.xml</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
