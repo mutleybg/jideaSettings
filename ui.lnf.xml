@@ -1,7 +1,9 @@
 <application>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="4096" />
     <option name="EDITOR_TAB_LIMIT" value="50" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
