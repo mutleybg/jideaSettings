@@ -1,6 +1,7 @@
 <application>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="false" />
+    <option name="RESUME_ONLY_CURRENT_THREAD" value="true" />
   </component>
   <component name="XDebuggerSettings">
     <data-views>
@@ -11,6 +12,7 @@
     <debuggers>
       <debugger id="kotlin_debugger">
         <configuration>
+          <option name="DEBUG_DISABLE_KOTLIN_INTERNAL_CLASSES" value="false" />
           <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
