@@ -3,12 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*dao.java</mask>
     <mask>*.tag</mask>
-    <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*beans.xml</mask>
     <mask>*.js</mask>
@@ -20,5 +20,6 @@
     <mask>*items.xml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.css</mask>
   </component>
 </application>
