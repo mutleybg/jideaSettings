@@ -3,16 +3,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.jsp, *.tag" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*dao.java</mask>
     <mask>*.tag</mask>
-    <mask>*.jsp</mask>
     <mask>*beans.xml</mask>
     <mask>*Test.java</mask>
-    <mask>*.jsp, *.tag</mask>
     <mask>*config.xml</mask>
     <mask>*.css</mask>
     <mask>*.impex</mask>
@@ -21,5 +19,7 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.jsp, *.tag</mask>
   </component>
 </application>
