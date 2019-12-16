@@ -16,9 +16,9 @@
     <mask>*.jsp, *.tag</mask>
     <mask>*items.xml</mask>
     <mask>*.java</mask>
-    <mask>*.impex</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*config.xml</mask>
+    <mask>*.impex</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
