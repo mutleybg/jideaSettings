@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*items.xml" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -17,9 +16,9 @@
     <mask>*config.xml</mask>
     <mask>*.xml</mask>
     <mask>*.jsp, *.tag</mask>
-    <mask>*.java</mask>
     <mask>*.impex</mask>
     <mask>*.properties</mask>
     <mask>*items.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
