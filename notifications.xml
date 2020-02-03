@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="Gradle Import" displayType="NONE" shouldLog="false" />
     <notification groupId="Grazie missing languages information" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" />
   </component>
 </application>
