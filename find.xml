@@ -16,10 +16,10 @@
     <mask>*items.xml</mask>
     <mask>*.js</mask>
     <mask>*.impex</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.css</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
