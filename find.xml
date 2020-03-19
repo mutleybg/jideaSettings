@@ -15,11 +15,11 @@
     <mask>*.javad</mask>
     <mask>*.impex</mask>
     <mask>*.css</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*items.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
