@@ -32,6 +32,13 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
