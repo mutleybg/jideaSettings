@@ -19,7 +19,7 @@
     <mask>*items.xml</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
