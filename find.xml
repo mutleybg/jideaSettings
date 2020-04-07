@@ -14,13 +14,13 @@
     <mask>*.jsp</mask>
     <mask>*.javad</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.properties</mask>
     <mask>*config.xml</mask>
     <mask>*.impex</mask>
     <mask>*.css</mask>
     <mask>*items.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
