@@ -16,10 +16,10 @@
     <mask>*.jsp, *.tag</mask>
     <mask>*.properties</mask>
     <mask>*config.xml</mask>
-    <mask>*.css</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*items.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.css</mask>
   </component>
 </application>
