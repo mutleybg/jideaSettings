@@ -14,7 +14,6 @@
     <mask>*.javad</mask>
     <mask>*.css</mask>
     <mask>*config.xml</mask>
-    <mask>*items.xml</mask>
     <mask>*.java</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.properties</mask>
@@ -22,5 +21,6 @@
     <mask>*.xml</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
