@@ -18,11 +18,11 @@
     <mask>*.impex</mask>
     <mask>*spring.xml</mask>
     <mask>*.java</mask>
-    <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
+    <mask>*.css</mask>
     <mask>*.jsp, *.tag</mask>
   </component>
 </application>
