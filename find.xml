@@ -19,9 +19,9 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.css</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.jsp, *.tag</mask>
+    <mask>*.css</mask>
   </component>
 </application>
