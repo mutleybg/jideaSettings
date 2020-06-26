@@ -8,6 +8,7 @@
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="alt f8" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
@@ -45,6 +46,10 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift f1" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
