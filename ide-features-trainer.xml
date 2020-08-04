@@ -1,6 +1,11 @@
 <application>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
+    <option name="languageToProjectMap">
+      <map>
+        <entry key="JAVA" value="C:\git7\product-center-5\hybris\LearnProject" />
+      </map>
+    </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
@@ -17,10 +22,10 @@
         <entry key="duplicate" value="NOT_PASSED" />
         <entry key="move" value="NOT_PASSED" />
         <entry key="multiple selections" value="NOT_PASSED" />
-        <entry key="navigation.declaration/implementation" value="NOT_PASSED" />
-        <entry key="navigation.filestructure" value="NOT_PASSED" />
-        <entry key="navigation.jumptosource" value="NOT_PASSED" />
-        <entry key="navigation.next/previousoccurrences" value="NOT_PASSED" />
+        <entry key="navigation.declaration/implementation" value="PASSED" />
+        <entry key="navigation.filestructure" value="PASSED" />
+        <entry key="navigation.jumptosource" value="PASSED" />
+        <entry key="navigation.next/previousoccurrences" value="PASSED" />
         <entry key="postfix completion" value="PASSED" />
         <entry key="refactorings.extractmethod" value="NOT_PASSED" />
         <entry key="refactorings.extractvariable/field" value="NOT_PASSED" />
