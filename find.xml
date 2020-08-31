@@ -21,7 +21,7 @@
     <mask>*.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*items.xml</mask>
     <mask>*.impex</mask>
+    <mask>*items.xml</mask>
   </component>
 </application>
