@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/JetBrains/intellij-sdk-code-samples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.it.bbraun.net" />
+          <option name="userName" value="penkanbg" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\git" />
