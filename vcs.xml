@@ -18,6 +18,10 @@
           <option name="url" value="http://git.it.bbraun.net" />
           <option name="userName" value="penkanbg" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mutleybg/HybrisHacTool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\git" />
