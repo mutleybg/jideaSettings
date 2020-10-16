@@ -6,5 +6,6 @@
     <notification groupId="Grazie missing languages information" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" />
     <notification groupId="Key Promoter X" displayType="NONE" shouldLog="false" />
+    <notification groupId="Lombok plugin" displayType="NONE" />
   </component>
 </application>
