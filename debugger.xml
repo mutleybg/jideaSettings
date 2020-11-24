@@ -332,6 +332,7 @@
     </data-views>
     <general>
       <confirm-breakpoint-removal>true</confirm-breakpoint-removal>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
       <debugger id="javascript">
