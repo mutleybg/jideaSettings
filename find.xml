@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*items.xml" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -14,7 +14,6 @@
     <mask>*.javad</mask>
     <mask>*spring.xml</mask>
     <mask>*.css</mask>
-    <mask>*.impex</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*config.xml</mask>
@@ -24,5 +23,6 @@
     <mask>*.jsp, *.tag</mask>
     <mask>*.java</mask>
     <mask>*items.xml</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
