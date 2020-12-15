@@ -17,12 +17,12 @@
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*config.xml</mask>
-    <mask>*.xml</mask>
     <mask>*beans.xml</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.impex</mask>
     <mask>*items.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
