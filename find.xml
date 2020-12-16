@@ -21,8 +21,8 @@
     <mask>*.jsp, *.tag</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*items.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
