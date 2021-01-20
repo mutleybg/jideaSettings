@@ -20,9 +20,9 @@
     <mask>*.impex</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*items.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
