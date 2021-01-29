@@ -33,6 +33,9 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="GenerateJavadoc">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
   </action>
@@ -76,6 +79,7 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt space" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
