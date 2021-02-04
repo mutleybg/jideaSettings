@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -16,13 +15,13 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*beans.xml</mask>
-    <mask>*config.xml</mask>
     <mask>*.impex</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*config.xml</mask>
     <mask>*items.xml</mask>
-    <mask>*.xml</mask>
-    <mask>*.xml</mask>
   </component>
 </application>
