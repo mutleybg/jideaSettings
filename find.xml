@@ -18,10 +18,10 @@
     <mask>*.impex</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.java</mask>
-    <mask>*.properties</mask>
     <mask>*config.xml</mask>
     <mask>*items.xml</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
