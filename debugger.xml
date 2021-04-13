@@ -434,17 +434,11 @@
     </data-views>
     <general>
       <confirm-breakpoint-removal>true</confirm-breakpoint-removal>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
