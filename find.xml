@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -18,8 +19,6 @@
     <mask>*beans.xml</mask>
     <mask>*DAO.java</mask>
     <mask>*spring.xml</mask>
-    <mask>*.xml</mask>
-    <mask>*.xml</mask>
     <mask>*items.xml</mask>
     <mask>*.java</mask>
     <mask>definition.xml</mask>
@@ -27,5 +26,7 @@
     <mask>*.properties</mask>
     <mask>*config.xml</mask>
     <mask>*.jsp, *.tag</mask>
+    <mask>*.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
