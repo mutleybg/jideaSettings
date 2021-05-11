@@ -1,41 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="36a84507-2dd8-4bbc-bcc5-8301224ca250-attachment" type="Native" />
-      <mapping pattern="52b38abd-5523-4c95-a96a-1b9976fcef39-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="b792c040-1f24-476f-8560-eccd4ff61cee-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="df5ab2c1-c4e9-41bb-a8c4-709dff9a52ca-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="a0699ad5-2ad5-421f-86b1-4e1ebcbdf593-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="e0657a29-102c-4fce-b616-4369e0283cc3-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="15316a87-d82a-49a9-8e04-0c86500c21c4-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="e98d623f-f49a-40bf-b911-b3d7f9cc58ea-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="3a9cd55d-3bbf-400d-b7ad-b048b5b1e33a-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="5ca87105-bad1-44a3-a110-a4906ecee7b6-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="6bd86b64-4da9-4e60-95c7-f0c67f745a72-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="4c289e81-3432-437e-8321-e728171c209a-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="5a39c489-8495-49c0-92bf-28bb812087a6-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="69e997c6-8be7-4ed4-844b-60b4d19ee0a9-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="ac30d7e1-0a98-4ac1-861e-5d2abdff610f-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="2abd5b9d-7a09-4bb3-bf85-88e318114fb1-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="8f87332f-34d7-4f3d-8265-66244e34c556-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="81a14fbd-b2fc-421b-a549-df52cc74458b-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="40e7c1fd-dfc2-4940-aec8-346fd4db4926-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="4850a315-bbae-42d3-819e-e48f1180a742-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="d0a3e42a-3eb2-4f56-86a5-5c204d33af0b-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="1f071761-2c54-44e0-9ac4-192457d1cec5-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="59ffaab5-9d8f-4883-942a-f5585f8f2c97-attachment" type="PLAIN_TEXT" />
-      <mapping pattern="0e910f99-8cf6-4063-bae7-8d2c0e8f244b-attachment" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
