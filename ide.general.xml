@@ -9,5 +9,6 @@
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="debugger.async.jdi" value="false" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
