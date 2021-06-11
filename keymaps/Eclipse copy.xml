@@ -14,6 +14,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
   <action id="ClassNameCompletion" />
+  <action id="CloseActiveTab" />
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="DatabaseView.SqlGenerator" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="ctrl f6" />
