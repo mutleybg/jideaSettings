@@ -19,11 +19,11 @@
     <mask>*items.xml</mask>
     <mask>*.properties</mask>
     <mask>*.css</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.jsp, *.tag</mask>
+    <mask>*.java</mask>
   </component>
 </application>
