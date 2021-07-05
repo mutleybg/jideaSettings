@@ -1,9 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.jsp, *.tag" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -12,19 +13,19 @@
     <mask>*Test.java</mask>
     <mask>*.jsp</mask>
     <mask>*.javad</mask>
-    <mask>*beans.xml</mask>
     <mask>definition.xml</mask>
-    <mask>*spring.xml</mask>
     <mask>*DAO.java</mask>
     <mask>*.css</mask>
-    <mask>*.properties</mask>
     <mask>*items.xml</mask>
-    <mask>*.impex</mask>
-    <mask>*.xml</mask>
-    <mask>*.xml</mask>
-    <mask>*config.xml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp, *.tag</mask>
+    <mask>*.impex</mask>
+    <mask>*.properties</mask>
+    <mask>*beans.xml</mask>
+    <mask>*spring.xml</mask>
+    <mask>*config.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
