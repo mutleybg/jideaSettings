@@ -23,9 +23,9 @@
     <mask>*.js</mask>
     <mask>*items.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*config.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
