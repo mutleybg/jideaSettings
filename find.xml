@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -17,7 +18,6 @@
     <mask>*DAO.java</mask>
     <mask>*beans.xml</mask>
     <mask>*spring.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
@@ -27,5 +27,6 @@
     <mask>*.properties</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.css</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
