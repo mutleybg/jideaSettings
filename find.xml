@@ -23,10 +23,10 @@
     <mask>*.properties</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*items.xml</mask>
     <mask>*config.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
