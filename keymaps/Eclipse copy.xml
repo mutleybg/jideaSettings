@@ -45,12 +45,19 @@
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
     <keyboard-shortcut first-keystroke="shift ctrl quote" second-keystroke="shift ctrl x" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="Runner.MinimizeView">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
