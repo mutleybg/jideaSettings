@@ -21,11 +21,11 @@
     <mask>*beans.xml</mask>
     <mask>*.js</mask>
     <mask>*config.xml</mask>
-    <mask>*.jsp, *.tag</mask>
     <mask>*.impex</mask>
     <mask>*items.xml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp, *.tag</mask>
   </component>
 </application>
