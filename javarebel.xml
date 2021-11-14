@@ -1,5 +1,6 @@
 <application>
   <component name="JavaRebelPlugin">
+    <option name="settingsStartupRadioSelection" value="1" />
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
