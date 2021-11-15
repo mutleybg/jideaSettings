@@ -19,7 +19,6 @@
     <mask>*beans.xml</mask>
     <mask>*config.xml</mask>
     <mask>*items.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
@@ -27,5 +26,6 @@
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*.jsp, *.tag</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
