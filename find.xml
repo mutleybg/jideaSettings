@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*config.xml" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -24,9 +24,9 @@
     <mask>*.impex</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*.xml</mask>
-    <mask>*config.xml</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*config.xml</mask>
   </component>
 </application>
