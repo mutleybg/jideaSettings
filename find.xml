@@ -20,12 +20,12 @@
     <mask>*items.xml</mask>
     <mask>*.css</mask>
     <mask>*.impex</mask>
-    <mask>*.jsp, *.tag</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
     <mask>*config.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.jsp, *.tag</mask>
   </component>
 </application>
