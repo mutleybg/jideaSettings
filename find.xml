@@ -22,11 +22,11 @@
     <mask>*.jsp, *.tag</mask>
     <mask>*DAO.java</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*config.xml</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*items.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
