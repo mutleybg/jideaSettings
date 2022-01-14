@@ -23,9 +23,9 @@
     <mask>*.js</mask>
     <mask>*.jsp, *.tag</mask>
     <mask>*beans.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*items.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
