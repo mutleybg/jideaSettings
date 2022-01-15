@@ -75,4 +75,5 @@
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="UsageGrouping.FileStructure" />
+  <action id="context.load" />
 </keymap>
