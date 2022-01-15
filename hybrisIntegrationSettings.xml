@@ -1,0 +1,18 @@
+<application>
+  <component name="HybrisApplicationSettings">
+    <option name="allowedSendingPlainStatistics" value="true" />
+    <option name="configPropertyFolding" value="Full" />
+    <option name="headerFolding" value="Smart" />
+    <option name="lineFolding" value="Enabled" />
+    <option name="localMacroFolding" value="Full" />
+    <option name="usedActions">
+      <set>
+        <option value="ANT" />
+        <option value="BUILD_PROJECT" />
+        <option value="GROOVY_CONSOLE" />
+        <option value="OPEN_PROJECT" />
+        <option value="RUN_TESTS" />
+      </set>
+    </option>
+  </component>
+</application>
