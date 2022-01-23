@@ -18,14 +18,14 @@
     <mask>*.css</mask>
     <mask>*.impex</mask>
     <mask>*DAO.java</mask>
-    <mask>*config.xml</mask>
     <mask>*.js</mask>
     <mask>*.jsp, *.tag</mask>
-    <mask>*beans.xml</mask>
     <mask>*.properties</mask>
+    <mask>*beans.xml</mask>
+    <mask>*config.xml</mask>
+    <mask>*items.xml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
-    <mask>*items.xml</mask>
   </component>
 </application>

@@ -36,9 +36,6 @@
     <keyboard-shortcut first-keystroke="shift f1" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
-  <action id="GotoSuperMethod">
-    <mouse-shortcut keystroke="control button2" />
-  </action>
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="MaximizeToolWindow">
@@ -75,5 +72,4 @@
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="UsageGrouping.FileStructure" />
-  <action id="context.load" />
 </keymap>
