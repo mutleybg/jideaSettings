@@ -8,5 +8,6 @@
     <notification groupId="JRebel non-sticky" displayType="NONE" />
     <notification groupId="Key Promoter X" displayType="NONE" shouldLog="false" />
     <notification groupId="Lombok plugin" displayType="NONE" />
+    <notification groupId="Spring Configuration Check" displayType="NONE" />
   </component>
 </application>
