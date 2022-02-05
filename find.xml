@@ -20,12 +20,12 @@
     <mask>*DAO.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp, *.tag</mask>
-    <mask>*.properties</mask>
     <mask>*beans.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*.xml</mask>
     <mask>*config.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.xml</mask>
-    <mask>*.xml</mask>
     <mask>*items.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
