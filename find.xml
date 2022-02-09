@@ -16,7 +16,6 @@
     <mask>definition.xml</mask>
     <mask>*spring.xml</mask>
     <mask>*.css</mask>
-    <mask>*.impex</mask>
     <mask>*DAO.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp, *.tag</mask>
@@ -27,5 +26,6 @@
     <mask>*items.xml</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>*.impex</mask>
   </component>
 </application>
