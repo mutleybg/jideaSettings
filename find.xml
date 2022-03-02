@@ -22,10 +22,10 @@
     <mask>*.jsp, *.tag</mask>
     <mask>*.impex</mask>
     <mask>*.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*config.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
