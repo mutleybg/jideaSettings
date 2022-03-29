@@ -154,6 +154,17 @@
     <Renderer ID="ClassRenderer">
       <option name="SHOW_VAL_FIELDS_AS_LOCAL_VARIABLES" value="false" />
     </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="de.hybris.platform.commerceservices.search.solrfacetsearch.data.SolrSearchQueryTermData" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="de.hybris.platform.commerceservices.search.solrfacetsearch.data.SolrSearchQueryTermData" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="this.getKey() + &quot;: &quot; + this.getValue()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
   </component>
   <component name="XDebuggerSettings">
     <data-views>
