@@ -157,6 +157,43 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.config.FacetSearchConfig" />
+        <option name="SHOW_TYPE" value="false" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.config.FacetSearchConfig" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="name&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.search.FacetValueField" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.search.FacetValueField" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="field + &quot;: &quot; + values&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.bbraun.hybris.core.search.solrfacetsearch.querybuilder.BBraunFreeTextQueryField" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.bbraun.hybris.core.search.solrfacetsearch.querybuilder.BBraunFreeTextQueryField" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="field + &quot;, boost: &quot; + boost + &quot;, forLocalizedSearchOnly: &quot; + forLocalizedSearchOnly + &quot;, singleTermRequired: &quot; + singleTermRequired&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="de.hybris.platform.commerceservices.search.solrfacetsearch.data.IndexedPropertyValueData" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="de.hybris.platform.commerceservices.search.solrfacetsearch.data.IndexedPropertyValueData" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="(indexedProperty instanceof IndexedProperty ?((IndexedProperty)indexedProperty).getName():indexedProperty) + &quot;:  &quot; + value&#13;de.hybris.platform.solrfacetsearch.config.IndexedProperty&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="de.hybris.platform.commerceservices.search.solrfacetsearch.data.SolrSearchQueryTermData" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="de.hybris.platform.commerceservices.search.solrfacetsearch.data.SolrSearchQueryTermData" />
