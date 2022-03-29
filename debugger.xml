@@ -157,6 +157,15 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.search.FacetField" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.search.FacetField" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="field + &quot;, facetType: &quot; + facetType&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.config.FacetSearchConfig" />
         <option name="SHOW_TYPE" value="false" />
         <Renderer ID="LabelRenderer" role="label">
@@ -208,7 +217,9 @@
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="500" />
     </data-views>
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
