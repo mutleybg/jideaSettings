@@ -1,6 +1,9 @@
 <application>
   <component name="GithubAccounts">
-    <account id="47f14d8f-1803-486d-8a80-c87a04eb5ac9" name="mutleybg">
+    <account name="penkanbg" id="ba65879c-676b-40c7-a0e9-84bbb20845c8">
+      <server host="code.bbraun.io" />
+    </account>
+    <account name="mutleybg" id="47f14d8f-1803-486d-8a80-c87a04eb5ac9">
       <server host="github.com" />
     </account>
   </component>
