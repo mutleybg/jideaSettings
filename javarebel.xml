@@ -8,7 +8,7 @@
         <entry key="com.zeroturnaround.jrebel.ide.RemoteServers" value="{&quot;RemoteServers&quot;:[{&quot;syncEnabled&quot;:&quot;false&quot;,&quot;serverAuthenticationPassword&quot;:&quot;&quot;,&quot;httpBasicAuthenticationUser&quot;:&quot;&quot;,&quot;httpBasicAuthenticationPassword&quot;:&quot;&quot;,&quot;name&quot;:&quot;LocalHybris&quot;,&quot;useServerAuthentication&quot;:&quot;false&quot;,&quot;deleteFilesOnServer&quot;:&quot;true&quot;,&quot;id&quot;:&quot;1&quot;,&quot;useHttpBasicAuthentication&quot;:&quot;false&quot;,&quot;url&quot;:&quot;https:\/\/localhost:9002\/&quot;}]}" />
         <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2022.2.1" />
         <entry key="com.zeroturnaround.jrebel.remoting.SyncOnBuild" value="true" />
-        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2022.3.1" />
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2022.3.0" />
         <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
         <entry key="ide.hybris-rebel-xml-exclusion-notification-nr-times-shown" value="1" />
       </map>
